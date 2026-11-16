@@ -1,6 +1,6 @@
 # Raen Browser: privacy and terms
 
-Updated 14 November 2026.
+Updated 15 November 2026.
 
 ## Privacy
 
@@ -24,6 +24,7 @@ Updated 14 November 2026.
 - YouTube: the public build reads your subscriptions and likes from YouTube's own site, signed in as you. Nothing about them is sent to us.
 - Spotify and TMDB: if you add your own keys, the app talks to those services directly with them.
 - Ad blocking (optional): the block lists are downloaded from Ghostery. The Twitch ads option (off unless you turn it on) sends the request for a stream's playlist through a community-run server, which can see which channels you watch.
+- AI panel: ChatGPT, Claude or Gemini in the side panel is that company's own site, under your account with them and their privacy policy. What you put in its message box (text you highlight, a page's or tab's text, a picture of part of the screen) goes to that company when you send it. The app sends nothing to an AI by itself and keeps no copy. Read aloud uses the voices on your PC and sends nothing anywhere.
 - Updates: the app asks GitHub whether there is a new version.
 
 ## Terms
