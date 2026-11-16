@@ -13,3 +13,7 @@ Once installed, Raen Browser updates itself.
 ## Privacy and terms
 
 See [PRIVACY-AND-TERMS.md](PRIVACY-AND-TERMS.md). The same page is in the app under Settings > App.
+
+## Made with AI
+
+Built with [Claude Code](https://claude.com/claude-code) by Anthropic, directed and tested by the Raen team.
