@@ -1,6 +1,6 @@
 # Raen Browser: privacy and terms
 
-Updated 15 November 2026.
+Updated 19 November 2026.
 
 ## Privacy
 
@@ -16,6 +16,7 @@ Updated 15 November 2026.
 - Rooms, friends and messages work through a server we run (on Cloudflare). To do that it holds: your friend code, the name and picture you show, who your friends are, which rooms you are in, and whether you are online.
 - Room chat, direct messages and the things shared in a room are encrypted on your PC before they are sent, and are stored on the server in that form.
 - If you turn on sharing what you are watching or listening to, your friends see it (the title, not your history). You can turn it off, or appear offline, at any time.
+- Your film log (what you have watched, your ratings, diary, reviews and lists) stays on this PC. If you use friends, a short summary goes to the server for your friends to see, unless you turn it off (Your films, Friends, Stop sharing): how many titles you have watched, your four favourites, and your latest 20 or so watches, ratings and reviews. It is stored there as it is (not encrypted like messages), only your friends are given it, and it is removed when you turn sharing off.
 - Leaving a room or removing a friend removes you from it. To have a room or your mailbox deleted from the server, ask us.
 
 ### What goes to other services
